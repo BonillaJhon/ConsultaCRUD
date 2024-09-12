@@ -1,0 +1,6 @@
+@ConsultaCRUD_HostAddress = http://localhost:5137
+
+GET {{ConsultaCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
